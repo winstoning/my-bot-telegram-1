@@ -2,7 +2,7 @@ import telebot
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 import random
 
-bot = telebot.TeleBot("7202072119:AAGhv3T1RVj9TrATLJUoUmbMZfoniFR2Fos")
+bot = telebot.TeleBot("Token bot")
 
 
 joks = [
